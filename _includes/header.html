@@ -1,0 +1,11 @@
+<nav class="tc pb3">
+  <a class="link dim black b f1 f-headline-ns tc db mb3 mb4-ns" href="/" title="Home">{{ site.title }}</a>
+
+  <h3 class="f3 lh-solid ttu fw1 pa1 tracked-l tc pb3">
+      {{ site.payoff }}
+  </h3>
+
+  {% for tag in site.tags %}
+  <a class="link dim gray ttu  pb4 f6 f5-ns dib mr3" href="{{ site.url }}/tags#{{ tag[0] | slugify }}" class="">{{ tag[0] }}</a>
+  {% endfor %}
+</nav>

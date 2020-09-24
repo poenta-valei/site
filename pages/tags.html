@@ -1,0 +1,24 @@
+---
+layout: home
+permalink: tags
+title: Dataporn
+---
+
+<div class="f4 mb4 center measure lh-copy">
+  <div class="courier lh-copy">
+    {% for tag in site.tags %}
+    <a href="#{{ tag[0] | slugify }}" class="">{{ tag[0] }}</a>
+    {% endfor %}
+  </div>
+  <div class="f4 mb4 center measure lh-copy">
+    {% for tag in site.tags  %}
+    <h2 class="ttu" id="{{ tag[0] }}">#{{ tag[0] }}</h2>
+      {% for post in tag[1] %}
+          <a class="f4 dib ph2 mv1 dim" href="{{ site.baseurl }}{{ post.url }}">
+          {{ post.title }}
+          </a>
+
+      {% endfor %}
+    {% endfor %}
+  </div>
+</div>

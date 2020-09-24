@@ -1,0 +1,65 @@
+name: 'Poenta Valei'
+aka: ''
+title: 'POENTA VALEI'
+payoff: "El siicon no se magna"
+description: "Parla come che ti magni su tennoeogia e computer"
+lang: it_IT
+paginate: 10
+
+# Url
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://poentavalei.io
+
+# SEO
+google_analytics: UA-148499280-1
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: "/assets/img/dataporn_metaimage.png"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  footnote_backlink: <
+#future: false
+
+#Style
+sass:
+  sass_dir: _sass
+  style: compression
+
+# Favicon
+touch_icon: "/assets/img/favicon/apple-touch-icon-144x144.png"
+favicon: "/assets/img/favicon/favicon.ico"
+
+# collections:
+#  activities:
+#    output: true
+#  services:
+#    output: true
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+   - Gemfile
+   - Gemfile.lock
+   - node_modules
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/   - Gemfile
+   - Gemfile.lock
+   - node_modules
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
