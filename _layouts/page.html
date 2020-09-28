@@ -6,29 +6,12 @@ layout: default
 <article class="pb3">
 
   <time class="f5">
-
-
     {% if page.next.url %}
     <a class="" href="{{page.next.url}}">></a>
     {% endif %}
   </time>
 
-      <div class="measure lh-copy">
-        {{ content }}
-      </div>
+  <div class="measure lh-copy">
+    {{ content }}
+  </div>
 </article>
-
-
-      <ul class="list pl0 ">
-        <li class="i">Robe compagne</li>
-        {% for post in site.related_posts limit:3 %}
-        <li>
-          <small><a href="{{ site.baseurl }}{{ post.url }}">
-            {{ post.title }}
-          </a></small>
-        </li>
-        {% endfor %}
-      </ul>
-
-
-    </div>

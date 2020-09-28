@@ -10,7 +10,9 @@ layout: default
 
     {% if page.tags %}
     {% for tag in page.tags %}
-    <p class="">Paroea ciave: <a href="{{ site.url }}/liston#{{ tag | slugify }}" class="ttu">#{{ tag }}</a></p>
+    <ul class="list pl0">
+      <li class="dib mb2"><a href="{{ site.url }}/liston#{{ tag | slugify }}" class="ttu f6 f5-ns db pa2 link dim dark-gray ba b--black-20">#{{ tag }}</a></li>
+    </ul>
     {% endfor %}
     {% endif %}
 

@@ -4,21 +4,24 @@ permalink: liston
 title: Liston
 ---
 
-<div class="">
-  <div class="">
-    {% for tag in site.tags %}
-    <a href="#{{ tag[0] | slugify }}" class="">{{ tag[0] }}</a>
-    {% endfor %}
-  </div>
-  <div class="">
-    {% for tag in site.tags  %}
-    <h2 class="ttu" id="{{ tag[0] }}">#{{ tag[0] }}</h2>
-      {% for post in tag[1] %}
-          <a class="" href="{{ site.baseurl }}{{ post.url }}">
-          {{ post.title }}
-          </a>
+<ul class="list pl0">
+  {% for tag in site.tags %}
+  <li class="dib mb2"><a href="#{{ tag[0] | slugify }}" class="ttu f6 f5-ns db pa2 link dim dark-gray ba b--black-20">#{{ tag[0] }}</a></li>
+  {% endfor %}
+</ul>
 
-      {% endfor %}
+
+{% for tag in site.tags  %}
+<div class="pb3">
+  <p class="f3 b ttu" id="{{ tag[0] }}">#{{ tag[0] }}</p>
+    {% for post in tag[1] %}
+    <ul class="list pl0">
+      <li>
+        <a class="" href="{{ site.baseurl }}{{ post.url }}">
+        {{ post.title }}
+        </a>
+      </li>
+    </ul>
     {% endfor %}
-  </div>
 </div>
+{% endfor %}
