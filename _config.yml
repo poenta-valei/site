@@ -11,7 +11,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: https://poentavalei.com
 
 # SEO
-google_analytics: UA-148499280-1
+google_analytics: UA-179187489-1
 defaults:
   - scope:
       path: ""
@@ -35,6 +35,9 @@ sass:
 # Favicon
 touch_icon: "/assets/img/favicon/apple-touch-icon-144x144.png"
 favicon: "/assets/img/favicon/favicon.ico"
+twitter:
+  username: lucacorsato
+  card: summary_large_image
 
 # collections:
 #  activities:
