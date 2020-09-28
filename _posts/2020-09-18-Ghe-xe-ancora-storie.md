@@ -3,7 +3,7 @@ layout: post
 title:  "Ghe xe ancora storie"
 date:   2020-09-18
 tags:
-  - storie
+  - storieviveevenete
 ---
 
 La [Federica](https://twitter.com/Lavvelenata) questa volta mi obbliga ad un'altra *traduzione* di un suo [thread](https://twitter.com/Lavvelenata/status/1306169352434208768?s=20) proprio perché mi cita un'opera dei Bassano. [La prima storia è qui](https://dataporn.me/2020/09/07/Ve-conto-na-storia.html), [qui la seconda](https://dataporn.me/2020/09/12/Ve-conto-naltra-storia.html) e questa è la terza.

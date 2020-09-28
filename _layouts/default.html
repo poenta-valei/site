@@ -3,7 +3,11 @@ layout: compress
 ---
 
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "" }}" dir="ltr" class="sans-serif fw3 pa2 center">
+<html lang="{{ page.lang | default: site.lang | default: "" }}" dir="ltr">
   {%- include head.html -%}
+  <body class="pa2 f4">
+    
     {{ content }}
+    {%- include footer.html -%}
+  </body>
 </html>

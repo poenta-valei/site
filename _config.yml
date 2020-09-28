@@ -1,10 +1,10 @@
 name: 'Poenta Valei'
 aka: ''
 title: 'POENTA VALEI'
-payoff: "El siicon no se magna"
-description: "Parla come che ti magni su tennoeogia e computer"
+payoff: "Magna digital e taxi"
+description: "El siicon no se magna, ea poenta sì. Digital e tecnoeogia par veneti"
 lang: it_IT
-paginate: 10
+paginate: 5
 
 # Url
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -16,12 +16,14 @@ defaults:
   - scope:
       path: ""
     values:
-      image: "/assets/img/dataporn_metaimage.png"
+      image: "/assets/img/poenta-valei-meta.png"
 
 # Build settings
+lsi: true
 markdown: kramdown
 highlighter: rouge
 kramdown:
+  math_engine: mathjax
   footnote_backlink: <
 #future: false
 
@@ -45,6 +47,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+  - classifier-reborn
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

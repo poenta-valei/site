@@ -3,7 +3,7 @@ layout: post
 title:  "Ve conto 'naltra storia"
 date:   2020-09-12
 tags:
-  - storie
+  - storieviveevenete
 ---
 
 Ci ho preso gusto a tradurre le storie di [Federica](https://twitter.com/Lavvelenata). [L'altra volta](https://dataporn.me/2020/09/07/Ve-conto-na-storia.html) ha raccontato di mobili, ora di calzature, tessuti e lampadari. [Qui](https://twitter.com/Lavvelenata/status/1304717245369720832?s=20) il thread originale su Twitter in dialetto veneto.
@@ -91,5 +91,3 @@ Ci ho preso gusto a tradurre le storie di [Federica](https://twitter.com/Lavvele
 > *Perché qui venivano ad elemosinare voti. E li prendevano con la storia che loro ce l'avevano più duro degli altri. Adesso non viene nemmeno il cane dello straccivendolo perché è brutto avere a che fare con i cadaveri. E domandargli schei e voti.*
 
 > *Perché qua non sventola più nemmeno la bandiera della Serenissima. Perché de questo pezzo di Veneto se ne sono dimenticati tutti. Viva sempre SAN MARCO.*
-
- 

@@ -1,11 +1,19 @@
-<nav class="tc pb3">
-  <a class="link dim black b f1 f-headline-ns tc db mb3 mb4-ns" href="/" title="Home">{{ site.title }}</a>
+<nav class="pb3">
+  <div class="flex  items-center">
+    <a class="" href="/">
+      <img src="{{ site.url }}/assets/img/poenta-valei.svg" class="pr3" alt="Poenta Valei logo">
+    </a>
+    <h1 class="f1-ns f2 ttu">{{ page.title }}</h1>
+  </div>
+  <p class="f4-ns f5 i">
+    {{ site.description }}
+  </p>
+  <div class="bb b--light-gray pv3 ttu">
+    <a href="/about" title="Cossa xé" class="f6 dib pr2">Cossa xé</a>
+    <a href="/liston/" title="Liston" class="f6 dib pr2">Liston</a>
 
-  <h3 class="f3 lh-solid ttu fw1 pa1 tracked-l tc pb3">
-      {{ site.payoff }}
-  </h3>
+  </div>
 
-  {% for tag in site.tags %}
-  <a class="link dim gray ttu  pb4 f6 f5-ns dib mr3" href="{{ site.url }}/tags#{{ tag[0] | slugify }}" class="">{{ tag[0] }}</a>
-  {% endfor %}
+
+
 </nav>

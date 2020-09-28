@@ -2,12 +2,37 @@
 layout: default
 ---
 
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "" }}" dir="ltr" class="center">
-  {%- include head.html -%}
-  <body class="center">
-    {%- include header.html -%}
-    {{ content }}
-    {%- include footer.html -%}
-  </body>
-</html>
+{%- include header.html -%}
+<div class="lh-copy pv3">
+  {%- for post in paginator.posts -%}
+  <article class="">
+    <a class="ttu" href="{{ post.url }}">{{ post.title | escape }}</a>
+    <small><time class="">{{ post.date | date: "%Y/%m/%d" }}</time></small>
+    <small>{{ post.content | truncatewords: 25 }} <a href="{{ post.url }}">[Continua]</a></small>
+
+
+    <!-- <div class="f5 f3-l">{{ post.content }}<div> -->
+  </article>
+  {%- endfor -%}
+
+</div>
+
+
+<!-- Pagination links -->
+{% if site.paginate %}
+<nav class="pv4">
+  <div class="nowrap overflow-x-auto">
+    {% if paginator.previous_page %}
+    <a class="f5 f4-ns dib mr3" href="{{ paginator.previous_page_path | relative_url }}" title="Indietro">Indrio</a>
+    {%- else %}
+    {{ paginator.previous_page }}
+    {%- endif %}
+    {{ paginator.page }} de {{ paginator.total_pages }}
+    {%- if paginator.next_page %}
+    <a class="f5 f4-ns dib ml3" href="{{ paginator.next_page_path | relative_url }}" title="Link 2">Vanti</a>
+    {%- else %}
+    {{ paginator.next_page }}
+    {%- endif %}
+  </div>
+</nav>
+{%- endif %}

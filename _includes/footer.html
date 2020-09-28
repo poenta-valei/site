@@ -1,6 +1,15 @@
-<footer class="f4 mb4 center measure lh-copy">
-  <span class="dib mr3 mr5-ns">©2020 {{ site.name }}</span>
-  <a href="https://lucacorsato.com/">LC</a>
-
-  <a class="" href="/privacy">Privacy</a>
+<footer class="pv4 bt b--light-gray">
+  <p class="f6 i">Par domande o richieste, mandé do paroe (ma do de numaro!) a:</p>
+  <a href="mailto:luca@lucacorsato.com" class="b f3">luca@lucacorsato.com</a>
+  <p class="f6 db b ttu lh-solid">© 2020 Poenta Valei</p>
+  <div class="mt3">
+    <a href="/language/" title="Cossa xé" class="f6 dib pr2">Cossa xé</a>
+    <a href="/terms/"    title="Terms" class="f6 dib ph2">Terms of Use</a>
+    <a href="/privacy/"  title="Privacy" class="f6 dib pl2">Privacy</a>
+  </div>
+  <div class="pv3 ttu">
+    {% for tag in site.tags %}
+    <a class="f6 dib pr2" href="{{ site.url }}/liston#{{ tag[0] | slugify }}">#{{ tag[0] }}</a>
+    {% endfor %}
+  </div>
 </footer>

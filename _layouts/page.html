@@ -6,22 +6,10 @@ layout: default
 <article class="pb3">
 
   <time class="f5">
-    <p class="i">Data: {{ page.date | date: "%d %m %Y" }}</p>
-
-    {% if page.tags %}
-    {% for tag in page.tags %}
-    <p class="">Paroea ciave: <a href="{{ site.url }}/liston#{{ tag | slugify }}" class="ttu">#{{ tag }}</a></p>
-    {% endfor %}
-    {% endif %}
-
-    {% if page.previous.url %}
-    <a class="" href="{{page.previous.url}}">lexi prima</a>
-    {% endif %}
 
 
     {% if page.next.url %}
-     opùr
-    <a class="" href="{{page.next.url}}">lexi dopo</a>
+    <a class="" href="{{page.next.url}}">></a>
     {% endif %}
   </time>
 

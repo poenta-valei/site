@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="300"
+   inkscape:export-xdpi="300"
+   inkscape:export-filename="/Users/lucacorsato/Documents/osd/website/poenta-valei/assets/img/poenta-valei-meta.png"
+   width="3750"
+   height="1969"
+   viewBox="0 0 992.18741 520.96458"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="poenta-valei-meta.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     showguides="false"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.14670109"
+     inkscape:cx="1975.6434"
+     inkscape:cy="1027.8805"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-global="false"
+     inkscape:window-width="1398"
+     inkscape:window-height="943"
+     inkscape:window-x="251"
+     inkscape:window-y="109"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-48.683332,-62.895384)">
+    <rect
+       ry="11.849002"
+       rx="11.089904"
+       y="62.895374"
+       x="48.683331"
+       height="520.9646"
+       width="992.1875"
+       id="rect1883"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:2.29263;stroke-linecap:round;stroke-linejoin:round" />
+    <path
+       id="path833"
+       style="fill:#784421;fill-opacity:1;stroke-width:6.89253;stroke-linecap:round;stroke-linejoin:round"
+       d="M 254.7161,72.023508 V 170.536 A 203.47718,203.47718 0 0 0 84.691878,371.25466 203.47718,203.47718 0 0 0 288.16922,574.73184 203.47718,203.47718 0 0 0 491.64639,371.25466 203.47718,203.47718 0 0 0 314.5623,169.5074 V 72.023508 Z m 29.92311,23.938493 a 11.969244,11.969244 0 0 1 11.96924,11.969249 11.969244,11.969244 0 0 1 -11.96924,11.96924 11.969244,11.969244 0 0 1 -11.96925,-11.96924 11.969244,11.969244 0 0 1 11.96925,-11.969249 z M 265.93727,281.48532 c 3.07885,5e-5 5.56382,2.48443 5.56382,5.56383 v 8.88338 2.22088 5.5638 h 11.10426 v -5.5638 -2.22088 -8.88338 c 0,-3.07901 2.48539,-5.56383 5.56387,-5.56383 3.07884,0 5.56381,2.48443 5.56381,5.56383 v 8.88338 2.22088 5.5638 h 11.10426 v -5.5638 -2.22088 -8.88338 c 0,-3.07901 2.4854,-5.56383 5.56387,-5.56383 3.07895,0 5.56382,2.48443 5.56382,5.56383 v 8.88338 2.22088 5.5638 h 14.21348 c 7.51848,0 13.55886,6.04034 13.55886,13.55893 v 14.21347 h 5.56387 2.22086 8.88341 c 3.07885,0 5.56381,2.48449 5.56381,5.56386 0,3.07895 -2.48539,5.56383 -5.56381,5.56383 h -8.88341 -2.22086 -5.56387 v 11.10426 h 5.56387 2.22086 8.88341 c 3.07885,0 5.56381,2.48449 5.56381,5.56382 0,3.07895 -2.48539,5.56386 -5.56381,5.56386 h -8.88341 -2.22086 -5.56387 v 11.10426 h 5.56387 2.22086 8.88341 c 3.07838,0 5.56381,2.48449 5.56381,5.56383 0,3.07885 -2.48539,5.56386 -5.56381,5.56386 h -8.88341 -2.22086 -5.56387 v 14.21347 c 0,7.51854 -6.04038,13.55887 -13.55886,13.55887 h -14.21348 v 5.56386 2.22088 8.88339 c 0,3.07886 -2.48449,5.56382 -5.56382,5.56382 -3.0789,0 -5.56387,-2.48534 -5.56387,-5.56382 v -8.88339 -2.22088 -5.56386 h -11.10426 v 5.56386 2.22088 8.88339 c 0,3.07886 -2.48491,5.56382 -5.56381,5.56382 -3.07886,0 -5.56387,-2.48534 -5.56387,-5.56382 v -8.88339 -2.22088 -5.56386 h -11.10426 v 5.56386 2.22088 8.88339 c 0,3.07843 -2.48492,5.56382 -5.56382,5.56382 -3.079,0 -5.56384,-2.48534 -5.56384,-5.56382 v -8.88339 -2.22088 -5.56386 h -14.21348 c -7.51848,0 -13.55891,-6.04033 -13.55891,-13.55887 v -14.21347 h -5.56382 -2.22086 -8.88342 c -3.07885,0 -5.56384,-2.48586 -5.56384,-5.56386 0,-3.07901 2.48493,-5.56383 5.56384,-5.56383 h 8.88342 2.22086 5.56382 v -11.10426 h -5.56382 -2.22086 -8.88342 c -3.07885,0 -5.56384,-2.48538 -5.56384,-5.56386 0,-3.07886 2.48493,-5.56382 5.56384,-5.56382 h 8.88342 2.22086 5.56382 V 342.6173 h -5.56382 -2.22086 -8.88342 c -3.07885,0 -5.56384,-2.4854 -5.56384,-5.56383 0,-3.0789 2.48493,-5.56386 5.56384,-5.56386 h 8.88342 2.22086 5.56382 v -14.21347 c 0,-7.51859 6.04043,-13.55893 13.55891,-13.55893 h 14.21348 v -5.5638 -2.22088 -8.88338 c 0,-3.07901 2.48538,-5.56383 5.56384,-5.56383 z m -22.39559,29.6893 a 3.7321427,3.7321427 0 0 0 -3.48323,3.74039 3.7321427,3.7321427 0 0 0 3.74039,3.71702 3.7321427,3.7321427 0 0 0 3.71701,-3.71702 3.7321427,3.7321427 0 0 0 -3.71701,-3.74039 3.7321427,3.7321427 0 0 0 -0.25712,0 z m 14.51739,8.29901 c -5.38642,-1.5e-4 -9.70164,4.31538 -9.70164,9.70164 v 60.22026 c 0,5.3864 4.31509,9.70164 9.70164,9.70164 h 60.22025 c 5.3864,0 9.70164,-4.31529 9.70164,-9.70164 v -60.22026 c 0,-5.3864 -4.31509,-9.70164 -9.70164,-9.70164 z m 5.84436,7.73794 h 48.53155 c 4.34016,0 7.80804,3.46745 7.80804,7.80806 v 48.53154 c 0,4.34003 -3.46788,7.80806 -7.80804,7.80806 h -48.53155 c -4.34019,0 -7.80806,-3.46746 -7.80806,-7.80806 v -48.53154 c 0,-4.34013 3.46746,-7.80806 7.80806,-7.80806 z" />
+    <text
+       id="text1833"
+       y="176.95"
+       x="517.42236"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:70.0566px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:-0.0137337px;stroke-width:1.75142"
+       xml:space="preserve"><tspan
+         dx="0"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:-1.71672px;stroke-width:1.75142"
+         y="176.95"
+         x="517.42236"
+         id="tspan1831"
+         sodipodi:role="line">POENTA VALEI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7432px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:-0.007007px;stroke-width:0.893582"
+       x="519.86646"
+       y="226.30911"
+       id="text1837"><tspan
+         sodipodi:role="line"
+         id="tspan1835"
+         x="519.86646"
+         y="226.30911"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:-0.875876px;stroke-width:0.893582">MAGNA DIGITAL E TAXI</tspan></text>
+    <text
+       id="text1875"
+       y="252.19342"
+       x="521.08136"
+       style="font-size:18.638px;line-height:1.05;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.465951"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.465951"
+         y="252.19342"
+         x="521.08136"
+         id="tspan1873"
+         sodipodi:role="line">El siicon no se magna, ea poenta sì</tspan><tspan
+         id="tspan1877"
+         style="stroke-width:0.465951"
+         y="271.76331"
+         x="521.08136"
+         sodipodi:role="line">Digital e tecnoeogia par veneti</tspan></text>
+    <text
+       id="text1881"
+       y="330.44528"
+       x="520.71729"
+       style="font-size:27.3361px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.683403"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.683403"
+         y="330.44528"
+         x="520.71729"
+         id="tspan1879"
+         sodipodi:role="line">poentavalei.com</tspan></text>
+  </g>
+</svg>
