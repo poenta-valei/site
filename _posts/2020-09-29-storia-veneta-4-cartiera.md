@@ -9,6 +9,8 @@ tags:
 
 Naltra storia dea [Federica](https://twitter.com/Lavvelenata) che trovè su [Tuiter](https://twitter.com/Lavvelenata/status/1309727919497936896?s=20). Staltre storie e trovè qua su [storieviveevenete](https://poentavalei.com/liston#storieviveevenete). Soto ghe xé ea [**ea tradusion**](#1)
 
+Ea foto xé ciapada da [qua](https://commons.wikimedia.org/wiki/File:Paolo_Monti_-_Servizio_fotografico_-_BEIC_6359575.jpg)
+
 
 Ve conto na storia.
 Na storia brutta, na storia rabiosa, na storia che chissà quante ghe n’è pi o meno uguai nei 18.300 km2 de Veneto, na storia come tante de imprese e imprenditori veneti, na storia de fameje.
