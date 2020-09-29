@@ -1,12 +1,137 @@
 ---
 layout: post
-title:  "Ve conto 'naltra storia"
+title:  "Ea storia dei lampadari veneti"
 date:   2020-09-12
+image: /assets/img/photo/bassa-padovana.png
 tags:
   - storieviveevenete
 ---
 
-Ci ho preso gusto a tradurre le storie di [Federica](https://twitter.com/Lavvelenata). [L'altra volta](https://dataporn.me/2020/09/07/Ve-conto-na-storia.html) ha raccontato di mobili, ora di calzature, tessuti e lampadari. [Qui](https://twitter.com/Lavvelenata/status/1304717245369720832?s=20) il thread originale su Twitter in dialetto veneto.
+Ea seconda dee [storieviveevenete](https://poentavalei.com/liston#storieviveevenete) dea [Federica](https://twitter.com/Lavvelenata) che ne conta [su Tuitter](https://twitter.com/Lavvelenata/status/1304717245369720832?s=20). #Storieviveevenete xé un'idea de [Nicus Tarvisii](https://twitter.com/Nicus_Tarvisii). Aea fine trové [**ea tradusion**](#1)
+
+Na storia veneta, na storia de skei, na storia de imprenditori, na storia de xente che gà ciavà xente, na storia dove che a un certo punto se gà messo in mezzo a politica. Na storia che pareva bea all’inissio e che dopo xe n’data a puttane.
+
+Serve na premessa: durante la Serenissima Repubblica di Venezia ghe iera regoe rigide pa difendere l’arte vetraria de Muran. I vetrari dovea custodir el segreto dee tecniche usae, iera strafietà importar veri foresti, chi no iera iscritto all’arte no podeva esercitar
+
+e chi se trasferia all’estero portando fora i segreti del mestiere vegnea condannà a morte e imprisonai i famigliari. Se schersava mia. Gnanca coe sansion all’epoca.
+
+A storia de ancò parla de ste robe qua:
+
+![Lampadari](/assets/img/photo/lampadari.png)
+
+Bon. Pa capir sta storia de oggi però bisogna rinfrescarse un fià a memoria sol fenomeno dea DELOCALIZZAZIONE VENETA.
+
+Marca gioiosa et amorosa. Metà anni 90 metà anni 2000. Fine febbraio 2001. Trasferta dei industriali de Treviso nella contea di Timisoara per l’apertura anno produttivo. TI-MI-SO-ARA. Romania.
+
+TI-MI-SO-ARA. Romania. Ottava provincia veneta. Magari co tee recitavi in fia te te desmentegavi BL e RO ma Timisoara ghe finia sempre dentro.
+Tutti in Romania all’epoca.
+
+
+Basso costo dea manodopera: col stipendio de un operaio italiano te ne pagavi 10 rumeni.
+Esperti speciaizai nea produsion de scarpe e strasse.
+Numero infinito de capanoni statai da convertir in laboratori sensa far tanti investimenti.
+
+Regime preferenziale su beni esportai e tecnologie importae.
+Stato rumeno che con fanfara accoglie i imprenditori veneti.
+4 voli giornalieri TV – Timi e viceversa
+
+Besteme venete uguai a quee rumene.
+Fata.
+Parte a campagna veneta in Romania.
+90-95 na media de 50 aziende se trasferiva la.
+VENETO WENT TO ROMANIA.
+
+Dal 95 al 2003 cambia qualcossa. I taca costruir case in Romania e Timi deventa stretta e picoea. Fuga daea città.
+
+Via fora a comprar campi e stalle dei paesi vicini : a imbriagar el contadin rumeno che no sa né lesar né scrivar dandoghe 100 marchi pa un campo de tera fasendoghe firmar na carta de vendita.
+Comprà a stalla se costruisse capanon.
+
+Ma tacca e rogne. Fora daea città l’operaio, abituà a lavorare nelle fabbriche statali, non xe tanto specializzato e  l’imprenditor veneto pa ovviare al problema inissia el furto della manodopera tra un laboratorio e l’altro a colpi de aumenti de stipendio de qualche euro.
+
+2009 fine del sogno.
+No xe pi convegnente star la. Dir el vero iera xa dal 2006 che a Romania non iera sto paese amigo del Veneto ma vanti sempre.
+
+Taca quei dea scarpa che respira e a marzo 2009 cede e produzioni aea VT Manufacturing. Che compra 23000 m2 de capanon, 3 milioni de scarpe prodotte all’anno e 1500 dipendenti. E che manda tutto in mona.
+
+Governo decide de aumentar stipendi, torna el spettro dea burocrasia e a forte corrusion fa cambiar idea.
+In pi i rumeni decide de vegner far i imprenditori edili in Veneto. Tanto e besteme xa iera comuni.
+
+Caro vita in Romani porta do tipi di rumeni in veneto: quei che xe deventà imprenditori e quei che pur de vivar xe ndai lavorar prima in nero dai imprenditori veneti e dopo sempre in nero pa no stonar da quei rumeni.
+
+Riva anca e donne. Badanti e puttane.
+Nel 2007 in Veneto ghemo 25.000 novi assunti. Rumeni.
+
+Manca manodopera a basso costo = fine del bisness Romania.
+E in Veneto cossa succedeva a quei dee scarpe e strasse che gavea delocaizà in Romania ?
+
+Qualcun qua diria chel Karma … ecc. ecc. Bhè finchè i veneti delocaizaa e produsion i so uffici stie, a so creatività, a so arte, a so beessa vegnea comprà par na pipa de tabacco dae multinasionai estere.
+
+I scarpari de Montebeuna produzea in Romania ai agli ordini dei francesi dea Rossignol, Salomon, Decathlon e compagnia cantante.
+
+E quei dee strasse ? Ben finchè iori delocaizava in Veneto rivava i i laboratori cinesi a basso costo.
+Dalla Romania si torna a casa. Ansi no. Se va pi distante. Bangladesh, China, Tunisia. Timi sostituia da Cap Bon par quei dee strasse
+
+E quei dei lampadari?
+![lampadari](/assets/img/photo/lampadari2.jpeg)
+
+E quei dei lampadari ?
+Mejo de tutti.
+Se gà desmentegà dei insegnamenti dea Serenissima.
+Dove xei ndai iori a farse far i lampadari perché i costava manco ?
+Da novei Marco e Nicoeò Polo i xe ndai in Cina.
+Dove che no i xe mia rumeni.
+
+E cossa gai fato: i se gà fato ciavar i clienti e el mestiere. Dai cinesi.
+Ma i ghe gà guadagnà skei. El veneto ghe disea al China: quanto me feto pagar sta roba ? iori ghe dixeva diese. I nostri te fatturi vinti e diese te i mi da indrio so un conto estero. Furbi ciò.
+
+Ghe fosse sta el Supremo Tribunale della Quarantia i saria finii tutti picai tra Marco e Todaro.
+
+E dopo cossa gai fatto ? Zero scrupoi. Importemo lampadari fati in China, sostituimo e etichette e ghe metemo quee nostre co scritto FATTE A VENESSIA o mejo ancor MADE IN ITALY.
+
+Perchè voto metter un lampadario col marchio FATTO A VENESSIA ? Riciama suito na roba fatta ad arte, fatta ben, co storia mienaria ae spae. E po VENESSIA. Dio santo del ciel VENESSIA XE VENESSIA.
+
+Ma capita ogni tanto che te piomba in azienda na consulente spaccacojoni, de quee che no se fa mai i cassi sui, de quea che nel so picoeo prova difendere el quasi indifendibie de quei onesti ...
+
+Capita che i te ciame perchè i gà vinto un bando FSE dea Regione e ghe serve qualcun che qualcossetta de export ghe ne sà.
+
+Pecà che quea qualcuna so stata mi. che so bastarda come na piegora. che son veneta anca sotto ultimo poro dea pee. che coi imprenditori li scolta e li sente e ghe parla.
+
+Pecà che quea qualcuna ga scelto da che parte stare. quea qualcuna no se fa i cassi sui mai. Quea qualcuna no ghe quadrava pi de na roba.
+
+Qua qualcuna che xe appassionà de dogane, de origine dea merce, de tutela del fatto in Italia, de certificati, de diritto doganale...
+
+E che ciapa in man DAU e boete doganai import China ...
+
+E che qualcossa no ghe torna. Perché vivendo in azienda vede che no se produce un casso, che i lavora sol in magasin a imbaear roba e spedire. Spedision continue. In tutto el mondo.
+
+Co e sensa fatture.
+
+E allora fa 1+1.
+E se da na parte se vergogna come ndar in giro col cueo fora da chealtra monta a rabbia. A rabbia e a cattiveria che vol Giustissia.
+
+Provo parlarghene cosa specie de consorsio... nissun sa gnente, nissun col dirme gnente. I xe tutti impirai pal spago dio caro. Tutti sa. Tutti xe complici dea bojada.
+
+Anca i sassi sa che in chel posto imbastardà tra 3 province venete nissun produce pi lampadari. E tutti tase. Perché tutti fa skei istesso.
+
+E allora mi me irabio. Tanto. Ma tanto tanto. E na sera dei primi de aprie del 2010 vo Mes3. In via Forte Marghera 1. Co carte, documenti, certificati, prove. Cartine no, no iera el posto.
+
+Son sta la dentro fin tardi.
+Tornada el giorno dopo.
+E a giugno, el 25 de giugno 2010 succede [questo](https://nuovavenezia.gelocal.it/regione/2010/06/25/news/vetri-di-murano-made-in-china-sequestrati-11-milioni-di-articoli-1.1340891)
+
+Perché ve go contà sta storia ?
+Perché in tutto questo a Regione Veneto no gà mosso un deo. Nonostante un consorzio finanzià daea stessa a tutela del DISTRETTO VENETO DELL'ILLUMINAZIONE. Dove che nea carega del potere ga messo uno dei sui.
+
+Perché de tutte e piccoe aziende dee tre province imbastardae desso no ghe xe quasi pi nessuna aperta. Per gravi errori dei imprenditori de ste bande. Perché chi fa skei fassii li perde anca facilmente.
+
+Perché qua i vegnea elemosinare voti. E li chiamava coea storia che i o gavea pi duro de altri. Desso no vien gnanca el can del strassaro perché xe brutto aver a che far coi cadaveri. E domandarghe skei e voti.
+
+Perché qua no sventoea pi gnanca a bandiera dea Serenissima. Perché de sto toco de Veneto se ga desmentegà in massa.
+W sempre SAN MARCO.
+
+
+<a id="1"></a>
+## Tradusion
 
 > *Eccomi qua. In un'altra [parte](https://twitter.com/Lavvelenata/status/1304717245369720832?s=20) di Veneto imbastardito tra tre province: Padova, Treviso e Venezia. Adesso vi racconto una storia.*
 

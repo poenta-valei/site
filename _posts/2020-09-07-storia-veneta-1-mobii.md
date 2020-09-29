@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Ve conto 'na storia"
+title:  "Storia de mobii veneti"
 date:   2020-09-07
 image: /assets/img/photo/EhJHsI3XgAALWJh.jpeg
 tags:
   - storieviveevenete
 ---
 
-Questa xé ea prim storia dea [Federica](https://www.linkedin.com/in/federica-piran-970b8028/) che ne conta [na storia](https://twitter.com/Lavvelenata/status/1302182084023398400?s=20). Aea fine trové [**ea tradusion**](#1)
+Questa xé ea prima storia de [storieviveevenete](https://poentavalei.com/liston#storieviveevenete) dea [Federica](https://twitter.com/Lavvelenata) che ne conta [su Tuitter](https://twitter.com/Lavvelenata/status/1302182084023398400?s=20). #Storieviveevenete xé un'idea de [Nicus Tarvisii](https://twitter.com/Nicus_Tarvisii). Aea fine trové [**ea tradusion**](#1)
 
 Ve conto na storia. 2009 più o meno. No iera ancora verta a A31 del deserto e pa vegner qua faseo tutta a Riviera Berica. De notte. Coea nebbia. Perché mo qua ghe vegneo 2 volte alla settimana. Dalle 19 alle 23. Proprio qua dentro.
 

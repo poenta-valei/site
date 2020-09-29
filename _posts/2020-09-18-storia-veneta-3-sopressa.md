@@ -1,12 +1,75 @@
 ---
 layout: post
-title:  "Ghe xe ancora storie"
+title:  "Ea storia dea sopressa vicentina"
 date:   2020-09-18
+image: /assets/img/photo/sopressa.jpg
 tags:
   - storieviveevenete
 ---
 
-La [Federica](https://twitter.com/Lavvelenata) questa volta mi obbliga ad un'altra *traduzione* di un suo [thread](https://twitter.com/Lavvelenata/status/1306169352434208768?s=20) proprio perché mi cita un'opera dei Bassano. [La prima storia è qui](https://dataporn.me/2020/09/07/Ve-conto-na-storia.html), [qui la seconda](https://dataporn.me/2020/09/12/Ve-conto-naltra-storia.html) e questa è la terza.
+Ea tersa dee [storieviveevenete](https://poentavalei.com/liston#storieviveevenete) dea [Federica](https://twitter.com/Lavvelenata) che ne conta [su Tuitter](https://twitter.com/Lavvelenata/status/1306169352434208768?s=20). 'Sta volta me cita anche un toco dei Bassano. #Storieviveevenete xé un'idea de [Nicus Tarvisii](https://twitter.com/Nicus_Tarvisii). Aea fine trové [**ea tradusion**](#1)
+
+Ve conto na storia.
+Se dovesse darghe un titoeo saria n'altro capitoeo de veneti che ciava veneti.
+Sto giro semo in provincia de Vicensa.
+Pa capirla mejo serchè su gugol el quadro de Jacopo da Ponte “Cristo in casa de Marta, Maria e Lazzaro” del 1577.
+Beo vero ?
+
+Vardè cossa ghe xe in toea …. na sopressa. Na roba vicentina. Na roba veneta.
+
+Perché nei anni e fameje de campagna podeva no aver pan in toea ma el porsel no podea mancar. E el 25 novembre no ghe iera santi, madonne, neve o bruto tempo che se tirava for el mazin e se copava el porsel.
+
+E siccome che da veneti se trasforma a vita quotidiana in impresa, se taca verzar salumifici. Giusto pa dar continuità ae tradision e farghe sor do skei.
+
+Fine anni 90. Derby TREVISO - VICENSA. Tutti porki che ga a che far co porsei.
+Da na parte i trevisani che spenze pa aver a IGP soea sopressa trevisana e figurate se quei de Vicensa vol essar da manco.
+
+Beo. Mi me piase tute e inisiative de far rete de imprese, collaborar tra imprenditori. Se mete insieme 10 salumifici dea zona VI co a mission de richiedere a DOP par quea vicentina. Ah no, mia semo manco de quei dea gloriosa.
+
+Se senta insieme i vicentini e prova buttar xo el disciplinare: i porki gà da nassar e cressar in provincia de Vicensa. Maceasion e lavorasion ugual. Tutto nee terre de Andrea Palladio.
+
+E qua taca i problemi che rispecchia uno dei problemi dei imprenditori veneti: a fame de skei che sacrifica a moraità. Ma ndemo vanti. Se ottien certificasion DOP secondo el Regolamento CE 510/2006.
+
+Se crea el logo e se parte aea conquista del mercato e del mondo coea sopressa de Vicensa. Se decide che e quote da versar pa far parte del consorsio corrisponda ae quote de produsion. Par giusto.
+
+Ma taca i primi problemi dei 2-3 macei autorizai 1 xe proprietà del capofia del consorsio … e  el capofia (pi grando de tuti) monopoiza el mercato proponendo prezzi improbabii … miga se pol far carteo coi prezzi ciò …
+
+E allora nea GDO domina sol el capofia nee forniture dea Sopressa DOP. Che produce anca sopressa usando porki foresti. Eh no dio bello, no se pol mia.
+
+Bea ciavada pa tutti chealtri, pi picoi e rigorosi nel rispetto del disciplinare. Da 10 i resta xa in 4-5. E zo porki. Tanti porki. Veneti.
+
+Ma far i furbi no paga mai. MAI.
+E sempre a quaità paga.
+Per cui capita che altri del consorsio che fa a vera DOP trova posto anca a prezzi pi alti nea GDO fornia dal capofia.
+Aprite cieo.
+
+I capofia che pensa de comandar perché i xe pi grandi … che no fa mia e robe fate par ben e che pur cambiandose macchina na volta all’anno se desmentega de pagar e quote pa far ndar vanti el consorsio.
+
+E se no paga el grando figurate se paga el picoeo. Col casso. E trovo giusto. E tacca a parte de veneti che ciava i veneti. Che i grandi sfrutta i cei, che deventa sciavi e fornitori dei grandi.
+
+Consorsio sensa skei. No se riesse nea mission de farghe magnar a tutti a DOP de Vicensa.
+
+El capofila riesse a far bancarotta fraudolenta nel 2013 (patteggiando pare e fiol un pochi de anni) e qualche anno dopo concordato.
+No pagando i fornitori pi picoi e gnanca e quote del consorsio.
+Che va in mona.
+Far i furbi no paga mai.
+
+Pecà che ghe iera quei che nea DOP ghe credea.
+Che fasea e robe fatte par ben.
+Che gavea capio che che loghetto iera simboeo de identità, de rispetto dea tradision, de grande amore pal porsel tipico dei veneti.
+
+Chel logo iera a passion e sapiensa artigiana, a passion e a dedision daea scelta dee materie prime a ndarghe parlar ae sopresse finchè e se maura. Dadrio che logo ghe xe el rispetto.
+
+E desso quei boni no riesse riciaparse in man el logo e ricostruir el consorsio perché al Ministero no ghe dà e carte e risposte.
+E ti (mi in sto caso) ciama in Region pa capir se qualcun pol aiutarce ma i xe tutti in smartworking e nessun sa gnente
+
+Ma gnanca de sta roba ghe ne clava un casso a quei dea campagna elettorae, gnanca de sta parte de veneto ghe ne ciava a qualcun.
+
+Veneti che ciava veneti. E veneti che tira xo porki. Veneti. Veneti picoi ciavai da quei grandi.
+E Regione assente. I picoi no dà skei aea poitica. E forse gnanca i va votar perchè i gà da lavorar.
+
+<a id="1"></a>
+## Tradusion
 
 > *Vi racconto una storia. Se dovessi darci un titolo sarebbe un altro capitolo di 'veneti che fottono veneti'. Questa volta siamo in provincia di Vicenza. Per capirla meglio cercate su Google il quadro di Jacopo [e Francesco ndt.] dal Ponte [Cristo in casa di Marta, Maria, Lazzaro](https://www.uffizi.it/opere/cristo-in-casa-di-marta-maria-e-lazzaro#:~:text=La%20scena%20raffigurata%20%C3%A8%20tratta,parola%20del%20Figlio%20di%20Dio.) del 1577. Bello vero? [lo si trova a Palazzo Pitti ndt]*
 

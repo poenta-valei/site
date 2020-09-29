@@ -8,7 +8,7 @@ layout: default
   <article class="">
     <a class="ttu" href="{{ post.url }}">{{ post.title | escape }}</a>
     <small><time class="">{{ post.date | date: "%Y/%m/%d" }}</time></small>
-    <small>{{ post.content | truncatewords: 25 }} <a href="{{ post.url }}">[Continua]</a></small>
+    <span class="f5">{{ post.content | truncatewords: 30 }} </span>
 
 
     <!-- <div class="f5 f3-l">{{ post.content }}<div> -->
