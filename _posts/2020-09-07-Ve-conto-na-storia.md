@@ -2,7 +2,7 @@
 layout: post
 title:  "Ve conto 'na storia"
 date:   2020-09-07
-image: EhJHsI3XgAALWJh.jpeg
+image: /assets/img/photo/EhJHsI3XgAALWJh.jpeg
 tags:
   - storieviveevenete
 ---
