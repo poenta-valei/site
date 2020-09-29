@@ -16,7 +16,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: "/assets/img/poenta-valei-meta.png"
+      image: "/assets/img/poenta-valei-meta.jpg"
 
 # Build settings
 lsi: true
