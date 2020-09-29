@@ -2,7 +2,7 @@
 layout: post
 title:  "Storia de na cartiera"
 date:   2020-09-29
-image: /assets/img/photo/cartiera.jpeg
+image: /assets/img/photo/cartiera.jpg
 tags:
   - storieviveevenete
 ---
