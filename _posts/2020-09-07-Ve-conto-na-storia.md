@@ -2,13 +2,66 @@
 layout: post
 title:  "Ve conto 'na storia"
 date:   2020-09-07
+image: EhJHsI3XgAALWJh.jpeg
 tags:
   - storieviveevenete
 ---
 
-Una piccola premessa. Per chi nasce in Veneto, la propria terra è una faccenda complessa. Da una parte è da trasformare dall'altra è da rimpiangere. La Laguna, i giardini alla veneta. Il bello era tale se anche produceva. Ma il bello chiede fatica, e fu spostata solo sulla produttività: casotti instancabili diventano capannoni, che oggi guardano il cielo senza tetti per non pagare l'IMU. Leggere "Luoghi e paesaggi" di Zanzotto fa male al cuore e alla mente.
+Questa xé ea prim storia dea [Federica](https://www.linkedin.com/in/federica-piran-970b8028/) che ne conta [na storia](https://twitter.com/Lavvelenata/status/1302182084023398400?s=20). Aea fine trové [**ea tradusion**](#1)
 
-C'erano e ci sono i distretti in Veneto. La scarpa nel Brenta, gli occhiali nel Cadore e Agordino, le concerie nel Vicentino, il mobile nella Bassa Padovana. [Federica Piran](https://www.linkedin.com/in/federica-piran-970b8028/) ha [raccontato una storia](https://twitter.com/Lavvelenata/status/1302182084023398400?s=20) che qui *traduco* dal dialetto veneto, perderà la forza e lo struggimento per la nostra terra bastarda, ma è una storia che non ha confini regionali e che vale per qualsiasi distretto in Italia.
+Ve conto na storia. 2009 più o meno. No iera ancora verta a A31 del deserto e pa vegner qua faseo tutta a Riviera Berica. De notte. Coea nebbia. Perché mo qua ghe vegneo 2 volte alla settimana. Dalle 19 alle 23. Proprio qua dentro.
+
+Do volte a settimana. 4 ore + 2 andata e ritorno de strada. Nei anni boni qua iera el regno dei mobilifici. Roba spettacolare. Fatta a man. A tecnica dea foja d'oro xe nata qua. Mobili che parlavano. Che finiva in case prestigiose e borghesi.
+
+No servia certificato de origine. A roba bea partiva da qua e ndava in tutto el mondo. Partiva dai picoi capannoni costruii dadrio casa, dove lavoro e vita se misciava tra baruffe e besteme e ndava ovunque. Imprese piccole e medie. Anca picoissime. Specializzate. Altamente.
+
+Nel 2009 se parlava xa de filiera qua. Xa da prima iera un sistema imprenditoriale favoloso. Tutti faseva skei e tutti le reinvestiva qua. Tutti qua lavorava direttamente o indirettamente col mondo mobili.
+
+Ognun però fasendose i cassi sui. Perché qua qualcun gavea sercà de metterli insieme in rete creando na specie de consorzio. Vanto dea politica veneta. Pa far veder che i gavea a cuore e aziende e che i savea e dinamiche internazionalizzazione.
+
+Ma co te metti uno "a cui bisogna darghe na poltrona" a capo de un consorzio che no capisse un casso vien fora che fa interessi de quei che te paga sottobanco. No de tutti i partecipanti.
+
+Per cui quel che dovea essere el grande consorzio del mobile CDS-CEREA e dintorni in poco tempo xe ndà a puttane e le grandi promesse trasformae in cocenti delusioni. E brutte paroe. Ansi besteme. Tante.
+
+Imprenditori che se varda in cagnesco, tutti nemici. Quel che dovea unire par crescere ga diviso per distruggere.
+E dopo riva la grande crisi finanziaria.
+Se salva in pochi.
+
+Perché? Perché qua come in altri posti del Veneto, ghe xe tanti che fa impresa ma pochi che xe imprenditori. Perché e dimension conta dio bello e se te si massa picoeo anca se te si brao xe el doppio pi fadiga.
+
+Perché far impresa no significa sol produrre. Perché el nero messo via da na parte, frutto de sacrifici e besteme, prima o dopo finisse. Perché qua tutti se gà desmentegà de quel che ghe iera. Perché a cultura imprenditoriale qua come altrove xe mancà.
+
+Perché na man ai imprenditori te ghea dà coi ga bisogno no sol in campagna elettorale. Perché i xe brutte bestie e no xe fassie averghe a che fare, perché i xe genuini e no ghe serve i inglesismi milanesizzati. Qua ghe iera da far par provar a SALVARE EL SALVABIE.
+
+E invesse in tanti (legalmente e no) ghe ga visto ennesima vacca (nana cit) da monzare e anca durante a Grande Crisi ga magnà sora alle imprese. Invesse de darghe na man ga accellerà a morte.
+
+In poco tempo qua el disastro. Pa fortuna xe zona de nebbia che sconde. In poco tempo ndata in mona una dee eccellenze venete. Un nostro vanto che LA POLITICA VENETA non ha voluto preservare e tutelare.
+
+Perché de questi qua no ghe n'è pi ciavà un casso a nissun. Come de tante realtà venete. Prima bacino de voto, dopo grande rogna che no se sa da dove ciapar in man. E allora se ignora. Se se desmentega che esiste sto posto. Come tanti altri.
+
+Qua no iera pi posto bon da piazzar qualcun so na carega. Qua i iera drio deventar poareti e cattivi. E povertà e cattiveria xe do brutte bestie combinae insieme.
+
+E allora - come in altre situazioni- se assa che a Storia fassa el so corso e se se gira da chealtra parte.
+
+Cossa vegnevo far mi qua ? Beh qua xe sta el me pi grande fallimento professionale. Da cui go imparà tante robe.
+Do volte a settimana per 4+4 ore me trovavo qua co un gruppetto de imprenditori. Ansi coi fioi zovani dei imprenditori del famoso distretto del mobile di CDS.
+
+E voevimo provar a salvare el salvabile. Provar a no buttar tutto in vacca. Provando nonostante tutto e tutti a far ripartire un cuore che no dava pi segni de vita. Con do armi: formazione tecnica e rete. Rete impresa no gestia da politica e politicanti. Formazione perché e robe
+
+Bisogna saverle e bisogna che qualcuno te le insegne. Qualcuno che le sa fare e le fa tutti i giorni. No che le blattera da na cattedra. E allora ogni "lezione" un aspetto tecnico del commercio internazionale,  e ciama i amissi bravi e competenti so altri aspetti (banche,
+
+Finanza aziendale, marketing,  ecc) pa coltivar quel che qua iera nato e cresciuto e che desso ho respirava più.
+
+Perché xe sta el me fallimento professionale? Perché go sol imbalsamà par ben le salme. Non so riussia salvarghene nessuna. Perché combattevo contro un nemico pi grande. Perché qua ierimo SOLI e ABBANDONATI. Da tutti.
+
+Perché mi qua go visto imprenditori in lacrime portar i libri in tribunale.
+Perché mi da qua go visto imprenditori co na corda al collo.
+Perché mi da qua go visto come aea politica no ghe ne ciava un casso dea realtà coe robe va mal.
+
+Ma qua go imparà tante robe. E se dovesse riciapar in man n'altra sfida professionale e personale ripartiria da qua. Quea personale nel capannon dove vo desso. Queo del 007 Marcantonio Bragadin.
+
+<a id="1"></a>
+## Tradusion
 
 > *Vi racconto una storia. 2009 più o meno. Non c'era ancora la desertica A31 e per venire qui ([Casale di Scodosia](https://it.wikipedia.org/wiki/Casale_di_Scodosia)) facevo tutta la Riviera Berica. Di notte. Con la nebbia. Perché qui ci venivo due volte alla settimana. Dalle 19 alle 23. Proprio qui dentro*
 >
