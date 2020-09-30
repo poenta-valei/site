@@ -7,7 +7,7 @@ tags:
   - fondamenti
 ---
 
-Semo grezi ma no ignoranti. Ghemo fato campi e capolavori. Qua meto un fià de apunti de chel bravo (e inteigente) fio che xé [Matteo Scarpa](https://twitter.com/fundor333).
+Semo grezi ma no ignoranti. Ghemo fato campi e capolavori. Qua meto un fià de apunti de chel bravo (e inteigente) fio che xé [Matteo Scarpa](https://fundor333.com/).
 
 El mondo dell'informatica se divide in quei che trapoea co e robe moe (fadiga con software) e quei che trapoea coe robe dure (el hardware).
 
