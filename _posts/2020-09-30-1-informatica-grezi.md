@@ -9,7 +9,7 @@ tags:
 
 Semo grezi ma no ignoranti. Ghemo fato campi e capolavori. Qua meto un fià de apunti de chel bravo (e inteigente) fio che xé [Matteo Scarpa](https://twitter.com/fundor333).
 
-El mondo dell'informatica se divide in quei che trapoea co e robe moi (fadiga con software) e quei che trapoea coe robe dure (el hardware).
+El mondo dell'informatica se divide in quei che trapoea co e robe moe (fadiga con software) e quei che trapoea coe robe dure (el hardware).
 
 Bon, gavemo anca quei che trapoea co tuti do ma intanto i metemo in canton parché i xé cativi e i fa soeo che confusion.
 
