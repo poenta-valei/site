@@ -208,7 +208,7 @@ End.
 
 > "E a sostituirli con i loro amici. Signorina sapesse... Hanno assunto come segretarie le donnette con cui passavano le serate... La mia azienda dopo un anno aveva più segretarie che operai."
 
-> "E se dicevo qualcosa loro mi dicevano di stare zitto che il corso di tale guru milanese diceva che bisognava potenziare il lavoro intellettuale piuttosto che manuale... ma perdio in una concieria cosa ci sarà da ragionare? Bisogna lavorare, far fatica, bestemmiare."
+> "E se dicevo qualcosa loro mi dicevano di stare zitto che il corso di tale guru milanese diceva che bisognava potenziare il lavoro intellettuale piuttosto che manuale... ma perdio in una conceria cosa ci sarà da ragionare? Bisogna lavorare, far fatica, bestemmiare."
 
 > "Wd è arrivato il giorno che mi hanno detto che potevo stare a casa e che non era più necessario che andassi in azienda."
 
@@ -228,17 +228,17 @@ End.
 
 > "PER NON MORIRE io e mia moglie ci siamo trasferiti in una casetta su un'isola spagnola. Lontani da Arzignano. Lontani dalla Vergogna."
 
-> "E hanno iniziato a fare sponsorizzazioni. Ad ogni manifestazione c'era il logo della mia ex concieria. Eventi che non avevano un cazzo a che fare con le pelli. Marketing dicevano."
+> "E hanno iniziato a fare sponsorizzazioni. Ad ogni manifestazione c'era il logo della mia ex conceria. Eventi che non avevano un cazzo a che fare con le pelli. Marketing dicevano."
 
 > "Squadre di calcio a 5. Sfilate di moda. Uno dei 3 era sempre a Milano. Non consumava mica la A4. Dormiva in una suite di un hotel."
 
-> "Il parcheggio della mia ex concieria era diventato il parcheggio di una concessionaria. Auto di lusso. Sempre più grandi. Sempre più potenti."
+> "Il parcheggio della mia ex conceria era diventato il parcheggio di una concessionaria. Auto di lusso. Sempre più grandi. Sempre più potenti."
 
-> "Auto di lusso, donnette alla moda e famose, e una strana collaborazione con le altre concierie..."
+> "Auto di lusso, donnette alla moda e famose, e una strana collaborazione con le altre concerie..."
 
 > "Della produzione quasi più nulla. aevo un amico di quelli sinceri che mi chiamava per raccontarmi. Non vedeva più camion scaricare rotoli di pelle o portar via rotoli di pelle lavorata. E luci del capannone spente. Ma quelle degli uffici accese fino a tardi."
 
-> "E inizio a leggere sul Giornale di Vicenza che inizia un effetto domino delle concierie storiche che chiudono, che finiscono in concordato, che portano i libri in tribunale... Che la Guardia di Finanza è fissa stabilmente ad Arzignano, Zermeghedo e Montebello."
+> "E inizio a leggere sul Giornale di Vicenza che inizia un effetto domino delle concerie storiche che chiudono, che finiscono in concordato, che portano i libri in tribunale... Che la Guardia di Finanza è fissa stabilmente ad Arzignano, Zermeghedo e Montebello."
 >
 > "Una sera chiamo i  miei figli. Era dalla sera della cena di addio che non li sentivo."
 
@@ -253,13 +253,13 @@ End.
 
 > Ed effettivamente il padre rivede i suoi tre figli in tribunale dopo qualche anno. In stile hollywoodiano anche questa volta. In compagnia di quelli della Valle della Concia. Assieme agli AMICI DELLA PELLE. Pieno di vergogna.
 
-> Perché i tre fenomeni dei figli sono riusciti in poco tempo a trasformare una CONCIERIA in una CARTIERA. Dilettante Quello in Alto che ha trasformato l'acqua in vino. Vuoi mettere cambiare attività aziendale...
+> Perché i tre fenomeni dei figli sono riusciti in poco tempo a trasformare una CONCERIA in una CARTIERA. Dilettante Quello in Alto che ha trasformato l'acqua in vino. Vuoi mettere cambiare attività aziendale...
 
 > I tre fenomeni invece di lavorare la pelle che puzza si sono convertiti alla produzione di FATTURE FALSE. Il business della Valle della Concia.
 
 > Una mattina vengono svegliati presto - cosa che prima delle 11 non succedeva mai - da quelli della GDF con un ordine di custodia cautelare con accuse di concorso in bancarotta fraudolenta documentale ed evasione fiscale. Non mancava nulla.
 
-> I tre fenomeni sono riusciti a far sparire la contabilità degli ultimi 5 anni credendo che non si riuscisse a risalire alle operazioni inesistenti... a dirottamenti di camion e container da una concieria all'altra... a buchi incolmabii, a schei fuori dal Veneto.
+> I tre fenomeni sono riusciti a far sparire la contabilità degli ultimi 5 anni credendo che non si riuscisse a risalire alle operazioni inesistenti... a dirottamenti di camion e container da una conceria all'altra... a buchi incolmabii, a schei fuori dal Veneto.
 
 > I tre fenomeni sono riusciti a fare fatture per centinaia di milioni di euro. Loro? No loro non sapevano fare un cazzo. Come che sosteneva il padre. Loro hanno lasciato fare. In cambio di AUTO DI LUSSO, FIGA E COCAINA.
 
