@@ -2,7 +2,7 @@
 layout: post
 title:  "Informatica par grezi #1 Robe moe e dure"
 date:   2020-09-30
-image: /assets/img/photo/Paolo_Monti_-Stra.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Paolo_Monti_-_Serie_fotografica_-_BEIC_6342916.jpg/1024px-Paolo_Monti_-_Serie_fotografica_-_BEIC_6342916.jpg
 tags:
   - fondamenti
 ---

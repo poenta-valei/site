@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Storia de na cartiera"
-date:   2020-09-29
+title:  "Storia dea Vae dea Concia"
+date:   2020-10-03
 image: /assets/img/photo/cartiera.jpg
 tags:
   - storieviveevenete
