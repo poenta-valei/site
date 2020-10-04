@@ -31,6 +31,8 @@ All'inissio anca mi gero diffidente (e gavevo [scritto](https://dataporn.me/2020
 
 Sani :-D
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Eopf7oSBVWc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 Ea foto xé ciapada da [qua](https://github.com/immuni-app/immuni-documentation/blob/master/Design/Welcome.png)
