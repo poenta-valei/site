@@ -4,11 +4,11 @@ layout: default
 
 {%- include header.html -%}
 <div class="lh-copy pv3">
-  {%- for post in paginator.posts -%}
+  {%- for post in site.posts -%}
   <article class="">
     <a class="ttu" href="{{ post.url }}">{{ post.title | escape }}</a>
     <small><time class="">{{ post.date | date: "%Y/%m/%d" }}</time></small>
-    <span class="f5">{{ post.content | truncatewords: 30 }} </span>
+    <span class="f5">{{ post.content | truncatewords: 20 }} </span>
 
 
     <!-- <div class="f5 f3-l">{{ post.content }}<div> -->
@@ -18,7 +18,7 @@ layout: default
 </div>
 
 
-<!-- Pagination links -->
+<!-- Pagination links
 {% if site.paginate %}
 <nav class="pv4">
   <div class="nowrap overflow-x-auto">
@@ -36,3 +36,4 @@ layout: default
   </div>
 </nav>
 {%- endif %}
+-->
