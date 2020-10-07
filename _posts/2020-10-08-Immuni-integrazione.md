@@ -2,7 +2,7 @@
 layout: post
 title:  "Immuni da integrassion"
 date:   2020-10-07
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Paolo_Monti_-_Servizio_fotografico_%28Battaglia_Terme%2C_1967%29_-_BEIC_6349104.jpg/1024px-Paolo_Monti_-_Servizio_fotografico_%28Battaglia_Terme%2C_1967%29_-_BEIC_6349104.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Giorgione%2C_la_vecchia%2C_1506_ca._02.JPG/1024px-Giorgione%2C_la_vecchia%2C_1506_ca._02.JPG?uselang=it
 tags:
   - fondamenti
 ---
@@ -29,4 +29,4 @@ L'integrassion xé el cavatappi che te verse qualsiasi botiglia. El cavatapi ti 
 
 
 
-Ea foto xé ciapada da [qua](https://commons.wikimedia.org/wiki/File:Paolo_Monti_-_Servizio_fotografico_(Battaglia_Terme,_1967)_-_BEIC_6349104.jpg)
+Ea foto xé ciapada da [qua](https://commons.wikimedia.org/wiki/File:Giorgione,_la_vecchia,_1506_ca._02.JPG?)
