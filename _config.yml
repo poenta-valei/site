@@ -19,7 +19,7 @@ defaults:
       image: "/assets/img/poenta-valei-meta.jpg"
 
 # Build settings
-lsi: true
+lsi: false
 markdown: kramdown
 highlighter: rouge
 kramdown:
