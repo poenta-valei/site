@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Storia de Mario Cauboi"
-date:   2020-10-20
+date:   2020-10-26
 image: /assets/img/photo/burlina1.jpg
 tags:
   - storieviveevenete
